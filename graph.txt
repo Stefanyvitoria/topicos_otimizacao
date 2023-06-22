@@ -1,0 +1,15 @@
+INI -> A = 1
+INI -> B = 4
+INI -> C = 1
+A -> D = 2
+A -> E = 3
+D -> H = 3
+E -> H = 2
+H -> I = 3
+I -> FIM = 1
+B -> G = 1
+C -> F = 2
+C -> G = 5
+G -> FIM = 3
+F -> J = 2
+J -> FIM = 5
